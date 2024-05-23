@@ -1,0 +1,21 @@
+  /*
+.header {
+    height: 77px;
+    background-color: rgb(230, 49, 94);
+    
+} */
+
+From the Sarah-Worthy AI Website 
+.hero-section {
+
+    /*background-repeat: no-repeat;
+    background-size: cover;
+    background-color: transparent;
+    background-position: 67.7419% 31.1752%;
+    background-image: url(//custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_1500,w_2000,f_auto,q_auto/6858586/886397_380417.jpg);
+    */
+    
+Source Site
+https://sarah-worthy.mystrikingly.com/
+
+}
